@@ -1,0 +1,30 @@
+﻿<Window x:Class="WpfApp2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel>
+        <Button Content="Un  bouton"/>
+        <ToggleButton Content="ToggleButton"/>
+        <CheckBox Content="Check Box"/>
+        <RadioButton Content="RadioButton"/>
+        <Button Padding="10" Click="Button_Click_1">
+            <MediaElement Source="tesr.jpg" Height="64" Width="193"/>
+        </Button>
+
+        <Button Width="100">
+            <CheckBox>
+                <TextBlock Text="Avec un retour" TextWrapping="Wrap"/>
+            </CheckBox>    
+        </Button>
+
+        <Border Background="Orange" CornerRadius="10" Padding="5">
+            <Button Content="Un bouton"/>
+        </Border>
+
+
+    </StackPanel>
+</Window>
