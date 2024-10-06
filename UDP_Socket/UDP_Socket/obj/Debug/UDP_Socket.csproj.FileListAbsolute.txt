@@ -1,0 +1,15 @@
+C:\Users\ehddn\source\repos\UDP_Socket\UDP_Socket\bin\Debug\UDP_Socket.exe.config
+C:\Users\ehddn\source\repos\UDP_Socket\UDP_Socket\bin\Debug\UDP_Socket.exe
+C:\Users\ehddn\source\repos\UDP_Socket\UDP_Socket\bin\Debug\UDP_Socket.pdb
+C:\Users\ehddn\source\repos\UDP_Socket\UDP_Socket\obj\Debug\UDP_Socket.csprojAssemblyReference.cache
+C:\Users\ehddn\source\repos\UDP_Socket\UDP_Socket\obj\Debug\MainWindow.g.cs
+C:\Users\ehddn\source\repos\UDP_Socket\UDP_Socket\obj\Debug\App.g.cs
+C:\Users\ehddn\source\repos\UDP_Socket\UDP_Socket\obj\Debug\UDP_Socket_MarkupCompile.cache
+C:\Users\ehddn\source\repos\UDP_Socket\UDP_Socket\obj\Debug\UDP_Socket_MarkupCompile.lref
+C:\Users\ehddn\source\repos\UDP_Socket\UDP_Socket\obj\Debug\MainWindow.baml
+C:\Users\ehddn\source\repos\UDP_Socket\UDP_Socket\obj\Debug\UDP_Socket.g.resources
+C:\Users\ehddn\source\repos\UDP_Socket\UDP_Socket\obj\Debug\UDP_Socket.Properties.Resources.resources
+C:\Users\ehddn\source\repos\UDP_Socket\UDP_Socket\obj\Debug\UDP_Socket.csproj.GenerateResource.cache
+C:\Users\ehddn\source\repos\UDP_Socket\UDP_Socket\obj\Debug\UDP_Socket.csproj.CoreCompileInputs.cache
+C:\Users\ehddn\source\repos\UDP_Socket\UDP_Socket\obj\Debug\UDP_Socket.exe
+C:\Users\ehddn\source\repos\UDP_Socket\UDP_Socket\obj\Debug\UDP_Socket.pdb
